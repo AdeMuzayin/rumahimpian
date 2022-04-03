@@ -114,4 +114,7 @@
 }
 
 @media screen and (max-width: 350px) {
+  .copyright {
+    width: 100%;
+  }
 }
